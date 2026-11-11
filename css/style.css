@@ -739,3 +739,5 @@ body::before, body::after { display: none; }
 .result .mono { width: 40px; height: 40px; border-radius: 10px; font-size: 13px; }
 .sheet .s-logo.mono-lg { display: grid; place-items: center; height: 120px; background: var(--red); color: #fff; font-size: 44px; font-weight: 700; letter-spacing: -.02em; border: 0; }
 @media (min-width: 768px) { #featured { grid-template-columns: repeat(3, 1fr); } }
+/* Photo hero: brand yellow on the second line of the headline */
+.hero-copy .h-display .y { color: var(--yellow); }
