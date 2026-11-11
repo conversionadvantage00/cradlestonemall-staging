@@ -741,3 +741,9 @@ body::before, body::after { display: none; }
 @media (min-width: 768px) { #featured { grid-template-columns: repeat(3, 1fr); } }
 /* Photo hero: brand yellow on the second line of the headline */
 .hero-copy .h-display .y { color: var(--yellow); }
+/* Store list: real logo thumbnails where we have them */
+.srow { grid-template-columns: 56px 1fr auto; }
+.srow .mono { width: 56px; height: 56px; border-radius: 12px; font-size: 16px; }
+.slogo { position: relative; width: 56px; height: 56px; border-radius: 12px; overflow: hidden; background: #fff; border: 1px solid var(--line); flex: none; }
+.slogo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
+.result .lg { width: 40px; height: 40px; border-radius: 10px; }

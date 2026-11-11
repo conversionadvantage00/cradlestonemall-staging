@@ -89,7 +89,7 @@
   const where = s => /^[ULF]\d/i.test(s.shop) ? s.shop : (s.shop || '');
   const card = s => `
     <button class="srow" data-id="${s.id}">
-      <span class="mono">${GA_INITIALS(s.name)}</span>
+      ${s.logo ? `<span class="slogo"><img src="${s.logo}" alt="" loading="lazy"></span>` : `<span class="mono">${GA_INITIALS(s.name)}</span>`}
       <span><span class="n">${s.name}</span><small>${s.cat}</small></span>
       <span class="where"><b>${s.level ? s.level.replace(' level', '') : ''}</b>${/^[ULF]\d/i.test(s.shop) ? 'Shop ' + s.shop : ''}</span>
     </button>`;
@@ -123,7 +123,7 @@
     sheet.innerHTML = `
       <div class="grab"></div>
       <button class="icon-btn close" data-close aria-label="Close">${I('x')}</button>
-      <div class="s-logo mono-lg">${GA_INITIALS(s.name)}</div>
+      ${s.logo ? `<div class="s-logo"><img src="${s.logo}" alt="${s.name}"></div>` : `<div class="s-logo mono-lg">${GA_INITIALS(s.name)}</div>`}
       <h3 id="sheetTitle">${s.name}</h3>
       <div class="s-sub">${s.cat} · ${/^[ULF]\d/i.test(s.shop) ? [s.level, 'Shop ' + s.shop].filter(Boolean).join(' · ') : (s.shop || s.level || 'Ask at Guest Relations')}</div>
       ${s.hours ? '' : `<div class="s-block"><span class="status">${st.html}</span></div>`}

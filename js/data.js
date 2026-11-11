@@ -9,7 +9,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 2148"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 106,
@@ -20,7 +21,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 9737"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/home.jpg"
 },
 {
 "id": 15,
@@ -31,7 +33,8 @@ window.GA_STORES = [
 "phones": [
 "0860 086 00"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/absa-bank.png"
 },
 {
 "id": 23,
@@ -42,7 +45,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1728"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/ackermans.jpg"
 },
 {
 "id": 16,
@@ -53,7 +57,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1860"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/african-bank.jpg"
 },
 {
 "id": 120,
@@ -64,7 +69,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 9713"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/american-swiss.jpg"
 },
 {
 "id": 91,
@@ -75,7 +81,8 @@ window.GA_STORES = [
 "phones": [
 "083 757 3145"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 127,
@@ -86,7 +93,8 @@ window.GA_STORES = [
 "phones": [
 "011 958 2652"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 13,
@@ -97,7 +105,8 @@ window.GA_STORES = [
 "phones": [
 "087 234 8505"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/babies-r-us.jpg"
 },
 {
 "id": 20,
@@ -108,7 +117,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1353"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/bargain-books.jpg"
 },
 {
 "id": 24,
@@ -119,7 +129,8 @@ window.GA_STORES = [
 "phones": [
 "071 440 2412"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 59,
@@ -130,7 +141,8 @@ window.GA_STORES = [
 "phones": [
 "078 996 9392"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 92,
@@ -141,7 +153,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1797"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 93,
@@ -152,7 +165,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1031"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 121,
@@ -163,7 +177,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1869"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 60,
@@ -174,7 +189,8 @@ window.GA_STORES = [
 "phones": [
 "076 397 8602"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 145,
@@ -185,7 +201,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1530"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/cape-union-mart.jpg"
 },
 {
 "id": 17,
@@ -196,7 +213,8 @@ window.GA_STORES = [
 "phones": [
 "087 756 0340"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/capitec-bank.jpg"
 },
 {
 "id": 61,
@@ -207,7 +225,8 @@ window.GA_STORES = [
 "phones": [
 "010 085 1560"
 ],
-"hours": "Sun–Thu 07:00–21:00; Fri & Sat 07:00–22:00"
+"hours": "Sun–Thu 07:00–21:00; Fri & Sat 07:00–22:00",
+"logo": "assets/logos/cappuccinos.jpg"
 },
 {
 "id": 135,
@@ -216,7 +235,8 @@ window.GA_STORES = [
 "shop": "L07",
 "level": "Lower level",
 "phones": [],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 1,
@@ -227,7 +247,8 @@ window.GA_STORES = [
 "phones": [
 "083 965 7352"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 122,
@@ -238,7 +259,8 @@ window.GA_STORES = [
 "phones": [
 "071 358 3410"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 49,
@@ -249,7 +271,8 @@ window.GA_STORES = [
 "phones": [
 "011 668 8760"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/checkers.jpg"
 },
 {
 "id": 62,
@@ -260,7 +283,8 @@ window.GA_STORES = [
 "phones": [
 "011 668 8760"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/checkers-liquor.jpg"
 },
 {
 "id": 146,
@@ -271,7 +295,8 @@ window.GA_STORES = [
 "phones": [
 "011 668 8765"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 136,
@@ -282,7 +307,8 @@ window.GA_STORES = [
 "phones": [
 "087 284 0173"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 94,
@@ -293,7 +319,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1666"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/clicks.jpg"
 },
 {
 "id": 25,
@@ -304,7 +331,8 @@ window.GA_STORES = [
 "phones": [
 "087 288 5108"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 54,
@@ -315,7 +343,8 @@ window.GA_STORES = [
 "phones": [
 "010 003 6699"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 52,
@@ -326,7 +355,8 @@ window.GA_STORES = [
 "phones": [
 "061 828 6536"
 ],
-"hours": "Mon 13:00–21:00; Tue–Thu 11:00–21:00; Fri–Sun 10:00–21:00"
+"hours": "Mon 13:00–21:00; Tue–Thu 11:00–21:00; Fri–Sun 10:00–21:00",
+"logo": ""
 },
 {
 "id": 2,
@@ -337,7 +367,8 @@ window.GA_STORES = [
 "phones": [
 "010 013 2091"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/computer-mania.jpg"
 },
 {
 "id": 26,
@@ -348,7 +379,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 2099"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/contempo.jpg"
 },
 {
 "id": 107,
@@ -359,7 +391,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1602"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 95,
@@ -370,7 +403,8 @@ window.GA_STORES = [
 "phones": [
 "011 956 3149"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 63,
@@ -381,7 +415,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1984"
 ],
-"hours": "Mon–Sat 09:00–21:00; Sun 10:00–20:00"
+"hours": "Mon–Sat 09:00–21:00; Sun 10:00–20:00",
+"logo": "assets/logos/debonairs.jpg"
 },
 {
 "id": 108,
@@ -392,7 +427,8 @@ window.GA_STORES = [
 "phones": [
 "010 730 0670"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 96,
@@ -403,7 +439,8 @@ window.GA_STORES = [
 "phones": [
 "011 668 6760"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/dis-chem-pharmacy.jpg"
 },
 {
 "id": 64,
@@ -414,7 +451,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 2121"
 ],
-"hours": "Mon–Sun 07:00–21:00"
+"hours": "Mon–Sun 07:00–21:00",
+"logo": "assets/logos/doppio-zero.jpg"
 },
 {
 "id": 109,
@@ -425,7 +463,8 @@ window.GA_STORES = [
 "phones": [
 "010 730 1700"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/duvet.jpg"
 },
 {
 "id": 130,
@@ -436,7 +475,8 @@ window.GA_STORES = [
 "phones": [
 "011 956 3070"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 27,
@@ -447,7 +487,8 @@ window.GA_STORES = [
 "phones": [
 "010 593 8371"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/edgars.jpg"
 },
 {
 "id": 28,
@@ -458,7 +499,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 9754"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/fabiani.jpg"
 },
 {
 "id": 65,
@@ -469,7 +511,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1435"
 ],
-"hours": "Mon–Sat 09:00–21:00; Sun 10:00–20:00"
+"hours": "Mon–Sat 09:00–21:00; Sun 10:00–20:00",
+"logo": ""
 },
 {
 "id": 110,
@@ -480,7 +523,8 @@ window.GA_STORES = [
 "phones": [
 "067 042 7022"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 151,
@@ -491,7 +535,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 5760"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/flight-centre.jpg"
 },
 {
 "id": 18,
@@ -502,7 +547,8 @@ window.GA_STORES = [
 "phones": [
 "087 345 5920"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/fnb.jpg"
 },
 {
 "id": 84,
@@ -513,7 +559,8 @@ window.GA_STORES = [
 "phones": [
 "087 756 0990"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/foot-gear.jpg"
 },
 {
 "id": 29,
@@ -524,7 +571,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 9700"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/foschini.jpg"
 },
 {
 "id": 3,
@@ -535,7 +583,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1046"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/foto-first.png"
 },
 {
 "id": 131,
@@ -546,7 +595,8 @@ window.GA_STORES = [
 "phones": [
 "072 221 5092"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/frans-tailor.jpg"
 },
 {
 "id": 128,
@@ -557,7 +607,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1083"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 30,
@@ -568,7 +619,8 @@ window.GA_STORES = [
 "phones": [
 "087 164 1112"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 97,
@@ -579,7 +631,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1277"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 4,
@@ -590,7 +643,8 @@ window.GA_STORES = [
 "phones": [
 "079 666 6786"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 66,
@@ -601,7 +655,8 @@ window.GA_STORES = [
 "phones": [
 "067 459 2770"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 98,
@@ -612,7 +667,8 @@ window.GA_STORES = [
 "phones": [
 "084 968 4444"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 5,
@@ -623,7 +679,8 @@ window.GA_STORES = [
 "phones": [
 "084 737 9499"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 6,
@@ -634,7 +691,8 @@ window.GA_STORES = [
 "phones": [
 "084 440 5560"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 7,
@@ -645,7 +703,8 @@ window.GA_STORES = [
 "phones": [
 "079 666 6786"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 8,
@@ -656,7 +715,8 @@ window.GA_STORES = [
 "phones": [
 "087 463 0076"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/incredible-connection.jpg"
 },
 {
 "id": 137,
@@ -667,7 +727,8 @@ window.GA_STORES = [
 "phones": [
 "010 745 0769"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 99,
@@ -678,7 +739,8 @@ window.GA_STORES = [
 "phones": [
 "073 257 4435"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 31,
@@ -689,7 +751,8 @@ window.GA_STORES = [
 "phones": [
 "010 157 4624"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 32,
@@ -700,7 +763,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 3870"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/jet.jpg"
 },
 {
 "id": 67,
@@ -711,7 +775,8 @@ window.GA_STORES = [
 "phones": [
 "083 500 9771"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/king-pie.jpg"
 },
 {
 "id": 85,
@@ -722,7 +787,8 @@ window.GA_STORES = [
 "phones": [
 "087 163 2957"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/kingsmead-shoes.png"
 },
 {
 "id": 68,
@@ -731,7 +797,8 @@ window.GA_STORES = [
 "shop": "",
 "level": "",
 "phones": [],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/krispy-kreme.jpg"
 },
 {
 "id": 100,
@@ -742,7 +809,8 @@ window.GA_STORES = [
 "phones": [
 "064 969 3484"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/legends-barbershop.jpg"
 },
 {
 "id": 33,
@@ -753,7 +821,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1646"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/legit.jpg"
 },
 {
 "id": 138,
@@ -764,7 +833,8 @@ window.GA_STORES = [
 "phones": [
 "061 047 6993"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 111,
@@ -775,7 +845,8 @@ window.GA_STORES = [
 "phones": [
 "064 785 7010"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 112,
@@ -786,7 +857,8 @@ window.GA_STORES = [
 "phones": [
 "079 521 0389"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 34,
@@ -797,7 +869,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 9720"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/markham.jpg"
 },
 {
 "id": 152,
@@ -808,7 +881,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1825"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 69,
@@ -819,7 +893,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 2723"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/mcdonalds.jpg"
 },
 {
 "id": 101,
@@ -830,7 +905,8 @@ window.GA_STORES = [
 "phones": [
 "011 668 8780"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 35,
@@ -841,7 +917,8 @@ window.GA_STORES = [
 "phones": [
 "087 754 5397"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/miladys.jpg"
 },
 {
 "id": 70,
@@ -852,7 +929,8 @@ window.GA_STORES = [
 "phones": [
 "011 568 2123"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/milky-lane.png"
 },
 {
 "id": 71,
@@ -863,7 +941,8 @@ window.GA_STORES = [
 "phones": [
 "083 655 8080"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 36,
@@ -874,7 +953,8 @@ window.GA_STORES = [
 "phones": [
 "087 049 6867"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/mr-price.jpg"
 },
 {
 "id": 113,
@@ -885,7 +965,8 @@ window.GA_STORES = [
 "phones": [
 "087 754 5398"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/mr-price-home.jpg"
 },
 {
 "id": 147,
@@ -896,7 +977,8 @@ window.GA_STORES = [
 "phones": [
 "087 754 5399"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/mr-price-sport.jpg"
 },
 {
 "id": 9,
@@ -907,7 +989,8 @@ window.GA_STORES = [
 "phones": [
 "083 869 6407"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/mtn.jpg"
 },
 {
 "id": 72,
@@ -918,7 +1001,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 2494"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/mugg-bean.jpg"
 },
 {
 "id": 19,
@@ -929,7 +1013,8 @@ window.GA_STORES = [
 "phones": [
 "086 0555 111"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/nedbank.png"
 },
 {
 "id": 55,
@@ -940,7 +1025,8 @@ window.GA_STORES = [
 "phones": [
 "010 590 3225"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/neovision.jpg"
 },
 {
 "id": 37,
@@ -951,7 +1037,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1605"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/old-khaki.jpg"
 },
 {
 "id": 114,
@@ -962,7 +1049,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1921"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 73,
@@ -973,7 +1061,8 @@ window.GA_STORES = [
 "phones": [
 "010 500 8613"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/panarottis.jpg"
 },
 {
 "id": 123,
@@ -984,7 +1073,8 @@ window.GA_STORES = [
 "phones": [
 "087 550 3360"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 38,
@@ -995,7 +1085,8 @@ window.GA_STORES = [
 "phones": [
 "061 328 6028"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/pep.jpg"
 },
 {
 "id": 115,
@@ -1006,7 +1097,8 @@ window.GA_STORES = [
 "phones": [
 "065 102 8556"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/pep-home.jpg"
 },
 {
 "id": 129,
@@ -1017,7 +1109,8 @@ window.GA_STORES = [
 "phones": [
 "011 668 8760"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 50,
@@ -1028,7 +1121,8 @@ window.GA_STORES = [
 "phones": [
 "010 023 5320"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/brand/pick-n-pay.png"
 },
 {
 "id": 39,
@@ -1039,7 +1133,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1489"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/pick-n-pay-clothing.jpg"
 },
 {
 "id": 74,
@@ -1050,7 +1145,8 @@ window.GA_STORES = [
 "phones": [
 "010 023 5320"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/pick-n-pay-liquor.jpg"
 },
 {
 "id": 21,
@@ -1061,7 +1157,8 @@ window.GA_STORES = [
 "phones": [
 "010 015 5095"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/pna.jpg"
 },
 {
 "id": 89,
@@ -1072,7 +1169,8 @@ window.GA_STORES = [
 "phones": [
 "066 136 9930"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 139,
@@ -1083,7 +1181,8 @@ window.GA_STORES = [
 "phones": [
 "079 506 4406"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 40,
@@ -1094,7 +1193,8 @@ window.GA_STORES = [
 "phones": [
 "011 608 6800"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/rage.jpg"
 },
 {
 "id": 41,
@@ -1105,7 +1205,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1768"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/refinery.jpg"
 },
 {
 "id": 42,
@@ -1116,7 +1217,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 3879"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 102,
@@ -1127,7 +1229,8 @@ window.GA_STORES = [
 "phones": [
 "071 912 4896"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 148,
@@ -1138,7 +1241,8 @@ window.GA_STORES = [
 "phones": [
 "011 018 9150"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 103,
@@ -1149,7 +1253,8 @@ window.GA_STORES = [
 "phones": [
 "081 378 7459"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 149,
@@ -1160,7 +1265,8 @@ window.GA_STORES = [
 "phones": [
 "087 283 3528"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 116,
@@ -1171,7 +1277,8 @@ window.GA_STORES = [
 "phones": [
 "087 754 5229"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/sheet-street.jpg"
 },
 {
 "id": 132,
@@ -1182,7 +1289,8 @@ window.GA_STORES = [
 "phones": [
 "078 159 4091"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 86,
@@ -1193,7 +1301,8 @@ window.GA_STORES = [
 "phones": [
 "010 006 3013"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/side-step.jpg"
 },
 {
 "id": 117,
@@ -1204,7 +1313,8 @@ window.GA_STORES = [
 "phones": [
 "010 133 1012"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/sleepmasters.jpg"
 },
 {
 "id": 75,
@@ -1215,7 +1325,8 @@ window.GA_STORES = [
 "phones": [
 "011 956 3058"
 ],
-"hours": "Mon–Thu 11:00–20:30; Fri–Sun 08:00–21:00"
+"hours": "Mon–Thu 11:00–20:30; Fri–Sun 08:00–21:00",
+"logo": ""
 },
 {
 "id": 56,
@@ -1226,7 +1337,8 @@ window.GA_STORES = [
 "phones": [
 "010 594 9500"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/spec-savers.jpg"
 },
 {
 "id": 76,
@@ -1237,7 +1349,8 @@ window.GA_STORES = [
 "phones": [
 "011 956 3058"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 77,
@@ -1248,7 +1361,8 @@ window.GA_STORES = [
 "phones": [
 "081 861 0106"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 43,
@@ -1259,7 +1373,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 9751"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/sportscene.jpg"
 },
 {
 "id": 78,
@@ -1270,7 +1385,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1156"
 ],
-"hours": "Mon–Sun 07:00–21:00"
+"hours": "Mon–Sun 07:00–21:00",
+"logo": "assets/logos/spur.jpg"
 },
 {
 "id": 140,
@@ -1281,7 +1397,8 @@ window.GA_STORES = [
 "phones": [
 "077 359 7314"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 79,
@@ -1292,7 +1409,8 @@ window.GA_STORES = [
 "phones": [
 "010 025 2631"
 ],
-"hours": "Mon–Sun 07:30–20:00"
+"hours": "Mon–Sun 07:30–20:00",
+"logo": ""
 },
 {
 "id": 80,
@@ -1303,7 +1421,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1435"
 ],
-"hours": "Mon–Sat 09:00–21:00; Sun 10:00–20:00"
+"hours": "Mon–Sat 09:00–21:00; Sun 10:00–20:00",
+"logo": "assets/logos/steers.jpg"
 },
 {
 "id": 53,
@@ -1314,7 +1433,8 @@ window.GA_STORES = [
 "phones": [
 "011 445 7700"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 124,
@@ -1325,7 +1445,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 9733"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/sterns.jpg"
 },
 {
 "id": 57,
@@ -1336,7 +1457,8 @@ window.GA_STORES = [
 "phones": [
 "021 276 2783"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/sunglass-hut.jpg"
 },
 {
 "id": 10,
@@ -1347,7 +1469,8 @@ window.GA_STORES = [
 "phones": [
 "067 871 4053"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 81,
@@ -1358,7 +1481,8 @@ window.GA_STORES = [
 "phones": [
 "083 417 6192"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/tasko-sweets.jpg"
 },
 {
 "id": 87,
@@ -1369,7 +1493,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 2959"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/tekkie-town.jpg"
 },
 {
 "id": 11,
@@ -1380,7 +1505,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1875"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/telkom.jpg"
 },
 {
 "id": 104,
@@ -1391,7 +1517,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1818"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/the-body-shop.jpg"
 },
 {
 "id": 22,
@@ -1402,7 +1529,8 @@ window.GA_STORES = [
 "phones": [
 "087 135 9180"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/the-crazy-store.png"
 },
 {
 "id": 125,
@@ -1413,7 +1541,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 2382"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 126,
@@ -1424,7 +1553,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1662"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 82,
@@ -1435,7 +1565,8 @@ window.GA_STORES = [
 "phones": [
 "072 797 3298"
 ],
-"hours": "Mon–Sat 09:00–20:00; Sun & public holidays 09:00–17:00"
+"hours": "Mon–Sat 09:00–20:00; Sun & public holidays 09:00–17:00",
+"logo": "assets/logos/the-fish-chips-co.jpg"
 },
 {
 "id": 44,
@@ -1446,7 +1577,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 9728"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/the-fix.jpg"
 },
 {
 "id": 88,
@@ -1457,7 +1589,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 9748"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/the-sneaker-factory.jpg"
 },
 {
 "id": 133,
@@ -1468,7 +1601,8 @@ window.GA_STORES = [
 "phones": [
 "010 054 6937"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 153,
@@ -1479,7 +1613,8 @@ window.GA_STORES = [
 "phones": [
 "064 522 1976"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 45,
@@ -1490,7 +1625,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 9742"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/totalsports.jpg"
 },
 {
 "id": 14,
@@ -1501,7 +1637,8 @@ window.GA_STORES = [
 "phones": [
 "087 234 8505"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/toys-r-us.jpg"
 },
 {
 "id": 150,
@@ -1512,7 +1649,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1802"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 118,
@@ -1523,7 +1661,8 @@ window.GA_STORES = [
 "phones": [
 "072 383 3223"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/truewood-furniture.jpg"
 },
 {
 "id": 46,
@@ -1534,7 +1673,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1342"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/truworths.jpg"
 },
 {
 "id": 141,
@@ -1545,7 +1685,8 @@ window.GA_STORES = [
 "phones": [
 "010 313 0200"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 47,
@@ -1556,7 +1697,8 @@ window.GA_STORES = [
 "phones": [
 "011 668 8770"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 48,
@@ -1567,7 +1709,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1491"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/uzzi.jpg"
 },
 {
 "id": 142,
@@ -1578,7 +1721,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 2388"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 143,
@@ -1589,7 +1733,8 @@ window.GA_STORES = [
 "phones": [
 "087 802 6719"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/verimark.jpg"
 },
 {
 "id": 90,
@@ -1600,7 +1745,8 @@ window.GA_STORES = [
 "phones": [
 "010 491 5334"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/virgin-active.jpg"
 },
 {
 "id": 12,
@@ -1611,7 +1757,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 2537"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/vodacom-4u.jpg"
 },
 {
 "id": 119,
@@ -1622,7 +1769,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1102"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/volpes.png"
 },
 {
 "id": 105,
@@ -1633,7 +1781,8 @@ window.GA_STORES = [
 "phones": [
 "010 143 9517"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/waxit.jpg"
 },
 {
 "id": 144,
@@ -1644,7 +1793,8 @@ window.GA_STORES = [
 "phones": [
 "010 001 0489"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/westpack-lifestyle.jpg"
 },
 {
 "id": 83,
@@ -1655,7 +1805,8 @@ window.GA_STORES = [
 "phones": [
 "011 662 1847"
 ],
-"hours": "Mon–Sat 07:00–18:00; Sun & public holidays 07:00–17:00"
+"hours": "Mon–Sat 07:00–18:00; Sun & public holidays 07:00–17:00",
+"logo": "assets/logos/wimpy.jpg"
 },
 {
 "id": 58,
@@ -1666,7 +1817,8 @@ window.GA_STORES = [
 "phones": [
 "071 361 8830"
 ],
-"hours": ""
+"hours": "",
+"logo": ""
 },
 {
 "id": 51,
@@ -1677,6 +1829,7 @@ window.GA_STORES = [
 "phones": [
 "011 662 9140"
 ],
-"hours": ""
+"hours": "",
+"logo": "assets/logos/woolworths.jpg"
 }
 ];

@@ -278,7 +278,7 @@
   window.GA_FIND = find;
   const initials = n => n.replace(/[^A-Za-z0-9 &]/g, '').split(/\s+/).filter(w => w && w !== '&').slice(0, 2).map(w => w[0]).join('').toUpperCase();
   window.GA_INITIALS = initials;
-  const resultHTML = s => `<a class="result" href="stores.html?store=${s.id}"><span class="mono">${initials(s.name)}</span><span><b>${s.name}</b><small>${s.cat}</small></span><span class="shop">${/^[ULF]\d/i.test(s.shop) ? 'Shop ' + s.shop : (s.level || '')}</span></a>`;
+  const resultHTML = s => `<a class="result" href="stores.html?store=${s.id}">${s.logo ? `<span class="lg"><img src="${s.logo}" alt="" loading="lazy"></span>` : `<span class="mono">${initials(s.name)}</span>`}<span><b>${s.name}</b><small>${s.cat}</small></span><span class="shop">${/^[ULF]\d/i.test(s.shop) ? 'Shop ' + s.shop : (s.level || '')}</span></a>`;
   $$('[data-store-search]').forEach(inp => {
     const box = inp.closest('.hero-search').querySelector('.results');
     let hl = -1;
